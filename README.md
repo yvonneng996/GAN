@@ -1,2 +1,2 @@
 # GAN
-contain pytorch version of GAN 
+contain pytorch version of GAN
